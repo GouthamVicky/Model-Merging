@@ -92,7 +92,7 @@ A passthrough is a no-op that simply passes input tensors through unmodified. It
 Currently, this is the only method in Mergekit that works for different model architectures. This is because it doesn’t fuse different layers into a single one as other methods do, and instead just stacks different layers sequentially.
 
 
-## Merged Model Experiment 
+## Model Merging Experiment 
 
 Combining two different models: **OpenMath-Mistral-7B-v0.1-hf** and **Mistral-7B-Merge-14-v0.1** and merge them with the SLERP method
 
