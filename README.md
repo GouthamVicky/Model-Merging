@@ -147,6 +147,11 @@ parameters:
 dtype: bfloat16
 
 ```
+## Interactive Examples
+
+You can run the interactive examples on Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_2wF-X67Pc0ezfReNbU_AsIt5mqudzv_#scrollTo=RcvyWfFEaq3o)
 
 ## Merged Model Card Link 
 
