@@ -21,8 +21,8 @@ normalize - if true, the weights of all models contributing to a tensor will be 
 
 Two types of model soup
 
-Uniform soup : Average all models
-Greedy Soup : Average models one by one, keeping only the ones that gradually improve test accuracy
+- Uniform soup : Average all models
+- Greedy Soup : Average models one by one, keeping only the ones that gradually improve test accuracy
 
 ### SLERP ( Spherical Linear Interpolation)
 
